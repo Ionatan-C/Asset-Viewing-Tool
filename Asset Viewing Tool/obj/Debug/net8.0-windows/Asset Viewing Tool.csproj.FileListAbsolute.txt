@@ -1,0 +1,54 @@
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.exe
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.deps.json
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.runtimeconfig.json
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.AssetViewingTool.resources
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.Properties.Resources.resources
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.csproj.GenerateResource.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.AssemblyInfoInputs.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.AssemblyInfo.cs
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.csproj.CoreCompileInputs.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\refint\Asset Viewing Tool.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.genruntimeconfig.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\ref\Asset Viewing Tool.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.AssetViewingTool.resources
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.Library.resources
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.Properties.Resources.resources
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.csproj.GenerateResource.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.AssemblyInfoInputs.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.AssemblyInfo.cs
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.csproj.CoreCompileInputs.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\refint\Asset Viewing Tool.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.exe
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.deps.json
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.runtimeconfig.json
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.genruntimeconfig.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\ref\Asset Viewing Tool.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 1\Assignment 1\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.Library_Classes.Library.resources
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.exe
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.deps.json
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.runtimeconfig.json
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.dll
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\bin\Debug\net8.0-windows\Asset Viewing Tool.pdb
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.AssetViewingTool.resources
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.Library_Classes.Library.resources
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset_Viewing_Tool.Properties.Resources.resources
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.csproj.GenerateResource.cache
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.AssemblyInfoInputs.cache
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.AssemblyInfo.cs
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.dll
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\refint\Asset Viewing Tool.dll
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.pdb
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\Asset Viewing Tool.genruntimeconfig.cache
+D:\GitHub Projects\A.Software Developer Projects\Asset Viewing Tool\Asset Viewing Tool\obj\Debug\net8.0-windows\ref\Asset Viewing Tool.dll

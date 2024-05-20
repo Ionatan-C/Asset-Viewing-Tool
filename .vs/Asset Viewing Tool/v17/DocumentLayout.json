@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|d:\\github projects\\a.software developer projects\\asset viewing tool\\asset viewing tool\\library classes\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|solutionrelative:asset viewing tool\\library classes\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\asset viewing tool\\library classes\\anglerfishlit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|solutionrelative:asset viewing tool\\library classes\\anglerfishlit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\asset viewing tool\\library classes\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|solutionrelative:asset viewing tool\\library classes\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\asset viewing tool\\assettool classes\\assetviewingtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|solutionrelative:asset viewing tool\\assettool classes\\assetviewingtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C03B31-4231-4D7E-9773-82DA79D4A383}|Asset Viewing ToolTests1\\Asset Viewing ToolTests1.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\asset viewing tooltests1\\library classes\\loadimagebtntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C03B31-4231-4D7E-9773-82DA79D4A383}|Asset Viewing ToolTests1\\Asset Viewing ToolTests1.csproj|solutionrelative:asset viewing tooltests1\\library classes\\loadimagebtntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\asset viewing tool\\library classes\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|solutionrelative:asset viewing tool\\library classes\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\asset viewing tool\\assettool classes\\minimizeassettool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|solutionrelative:asset viewing tool\\assettool classes\\minimizeassettool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\asset viewing tool\\library classes\\anglerfishunlit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|solutionrelative:asset viewing tool\\library classes\\anglerfishunlit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\asset viewing tool\\library classes\\defaultgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13C783E-D6BE-4540-8C7C-0EAC53946F5A}|Asset Viewing Tool\\Asset Viewing Tool.csproj|solutionrelative:asset viewing tool\\library classes\\defaultgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnglerFishLit.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\AnglerFishLit.cs",
+              "RelativeDocumentMoniker": "Asset Viewing Tool\\Library Classes\\AnglerFishLit.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\AnglerFishLit.cs",
+              "RelativeToolTip": "Asset Viewing Tool\\Library Classes\\AnglerFishLit.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:42:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadImageBtnTests.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing ToolTests1\\Library Classes\\LoadImageBtnTests.cs",
+              "RelativeDocumentMoniker": "Asset Viewing ToolTests1\\Library Classes\\LoadImageBtnTests.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing ToolTests1\\Library Classes\\LoadImageBtnTests.cs",
+              "RelativeToolTip": "Asset Viewing ToolTests1\\Library Classes\\LoadImageBtnTests.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:27:18.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\Gallery.cs",
+              "RelativeDocumentMoniker": "Asset Viewing Tool\\Library Classes\\Gallery.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\Gallery.cs",
+              "RelativeToolTip": "Asset Viewing Tool\\Library Classes\\Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:25:46.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnglerFishUnlit.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\AnglerFishUnlit.cs",
+              "RelativeDocumentMoniker": "Asset Viewing Tool\\Library Classes\\AnglerFishUnlit.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\AnglerFishUnlit.cs",
+              "RelativeToolTip": "Asset Viewing Tool\\Library Classes\\AnglerFishUnlit.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:13:33.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultGallery.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\DefaultGallery.cs",
+              "RelativeDocumentMoniker": "Asset Viewing Tool\\Library Classes\\DefaultGallery.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\DefaultGallery.cs",
+              "RelativeToolTip": "Asset Viewing Tool\\Library Classes\\DefaultGallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:13:30.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinimizeAssetTool.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\AssetTool Classes\\MinimizeAssetTool.cs",
+              "RelativeDocumentMoniker": "Asset Viewing Tool\\AssetTool Classes\\MinimizeAssetTool.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\AssetTool Classes\\MinimizeAssetTool.cs",
+              "RelativeToolTip": "Asset Viewing Tool\\AssetTool Classes\\MinimizeAssetTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T01:08:16.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\Library.cs",
+              "RelativeDocumentMoniker": "Asset Viewing Tool\\Library Classes\\Library.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\Library.cs",
+              "RelativeToolTip": "Asset Viewing Tool\\Library Classes\\Library.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwEIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T01:08:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\Library.cs",
+              "RelativeDocumentMoniker": "Asset Viewing Tool\\Library Classes\\Library.cs",
+              "ToolTip": "D:\\A.University\\A.Third Year\\Advanced Software Engineering\\Semester 1\\Assignment 1\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\Library.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\A.University\\A.Third Year\\Advanced Software Engineering\\Semester 1\\Assignment 1\\Asset Viewing Tool\\Asset Viewing Tool\\Library Classes\\Library.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T11:24:09.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetViewingTool.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\Asset Viewing Tool\\Asset Viewing Tool\\AssetTool Classes\\AssetViewingTool.cs",
+              "RelativeDocumentMoniker": "Asset Viewing Tool\\AssetTool Classes\\AssetViewingTool.cs",
+              "ToolTip": "D:\\A.University\\A.Third Year\\Advanced Software Engineering\\Semester 1\\Assignment 1\\Asset Viewing Tool\\Asset Viewing Tool\\AssetTool Classes\\AssetViewingTool.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\A.University\\A.Third Year\\Advanced Software Engineering\\Semester 1\\Assignment 1\\Asset Viewing Tool\\Asset Viewing Tool\\AssetTool Classes\\AssetViewingTool.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T11:24:03.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
